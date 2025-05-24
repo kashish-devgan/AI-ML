@@ -13,13 +13,8 @@ This repository contains a Jupyter Notebook implementing an AI-based system for 
 ## 📁 File Structure
 
 ```
-Apple_Disease_Detection/
+AI-ML/
 ├── Apple_Disease_Detection.ipynb    # Main Jupyter Notebook
-├── /dataset/                        # Folder containing training images
-│   ├── Apple___Apple_scab/
-│   ├── Apple___Black_rot/
-│   ├── Apple___Cedar_apple_rust/
-│   └── Apple___healthy/
 └── README.md                        # Project documentation
 ```
 
